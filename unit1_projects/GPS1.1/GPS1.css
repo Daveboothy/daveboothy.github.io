@@ -1,0 +1,50 @@
+#pagebox {
+    background-color:#FFECDB; 
+    width:60%; 
+    margin-left:20%;
+    margin-right:20%;
+  }
+  
+  #footer {
+    background-color:#22313F; 
+    height:50px;
+    text-align:center;
+    color: #EEEEEE;
+  }
+  
+  #image {
+    width:60%; 
+    margin-left:20%;
+    margin-right:20%;
+  }
+  
+  #nav {
+    background-color:#22313F; 
+    height:50px;
+    text-align:center;
+    color: #EEEEEE;
+    position:relative;
+  }
+  
+  #nav ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+  }
+  
+  #nav li{
+    display:inline;
+  }
+  
+  #nav a:link, a:visited {
+     width:220px;
+     color:#FFFFFF;
+     text-decoration:none;
+     text-transform:uppercase;
+  }
+  
+  h1 {
+     text-align:center;
+  }
+  
