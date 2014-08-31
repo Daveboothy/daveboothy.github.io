@@ -1,12 +1,8 @@
 body {
 	background-color: #DDDDDD;
 
-p{
-	color: red;
+p {
+	color: blue; text-decoration: underline;
 }
 
-}
 
-main {
-	color: #000000;
-}
