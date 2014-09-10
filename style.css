@@ -1,8 +1,72 @@
-body {
-	background-color: #DDDDDD;
-
-p {
-	color: blue; text-decoration: underline;
+.nav a {
+	color: #5a5a5a;
+    font-size: 14px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
 }
 
+.footer {
+	border-top: 1px solid #dbdbdb;
+	background-color: #dfdfdf;
+	text-align: center;
+}
 
+.nav li {
+	list-style: none;
+	display: inline;
+}
+
+.jumbotron {
+    height:500px;
+    background-image: url(http://bit.ly/1qwhbYn);
+}
+
+.jumbotron h1 {
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.jumbotron p {
+    color: #555555;
+    font-size: 20px;
+    font-family: Helvetica;
+    float: right;
+}
+
+.jumbotron .container {
+	position: relative;
+    top: 30px;
+    left: 25px;
+    background-color: #FFFFFF;
+	border: 2px solid black;
+	border-radius: 10px;
+	width: 60%;
+	float: left;
+}
+
+.main {
+    background-color: #f7f7f7;
+}
+
+.main h3 {
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+}
+
+.main a {
+	color: #00b0ff;
+}
+
+.menu-icon {
+	position: absolute;
+	top: 15px;
+	left: 15px;
+	padding: 5px;
+}
